@@ -43,6 +43,15 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 |단지명|진행상태|거실조명|각실조명|콘센트|가스벨브|온도조절기|환기|도어락|외출설정|에너지|비고|
 |-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |강릉회산 한신더휴|테스트중| O | X | △ | X | O | X | X | X | O | - 원가절감형<br>- 조명은 거실조명만 제어<br>- 콘센트는 안방콘센트만 제어|
+|목동센트럴아이파크위브 3블럭|테스트중| O | O | O | X | O | O | X | X | O | |
+
+
+<br>
+
+## 관련사이트
+[1] 밍밍1님의 bestin-ha-config github repository(<https://github.com/gaussian8/bestin-ha-config>)<br>
+
+
 
 [version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
