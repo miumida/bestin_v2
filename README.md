@@ -81,6 +81,6 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 
 
 
-[version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
+[version-shield]: https://img.shields.io/badge/version-v1.0.0b-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-red.svg
