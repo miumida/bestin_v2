@@ -22,6 +22,19 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 
 <br>
 
+## Installation
+### Manual
+- HA 설치 경로 아래 custom_components에 bestin_v2폴더 안의 전체 파일을 복사해줍니다.<br>
+  `<config directory>/custom_components/bestin_v2/`<br>
+- configuration.yaml 파일에 설정을 추가합니다.<br>
+- Home-Assistant 를 재시작합니다<br>
+### HACS
+- HACS > Integretions > 우측상단 메뉴 > Custom repositories 선택
+- 'https://github.com/miumida/bestin_v2' 주소 입력, Category에 'integration' 선택 후, 저장
+- HACS > Integretions 메뉴 선택 후, BESTIN v2 검색하여 설치
+
+<br>
+
 ## 지원기능
 | 장치 | 지원여부 | 비고 |
 |-----|-----|-----|
