@@ -22,6 +22,13 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 
 <br>
 
+
+## ing...
+- Fan not Sync state
+- Gaslock is unsupported
+
+<br>
+
 ## Installation
 ### Manual
 - HA 설치 경로 아래 custom_components에 bestin_v2폴더 안의 전체 파일을 복사해줍니다.<br>
