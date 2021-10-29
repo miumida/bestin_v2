@@ -24,8 +24,9 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 
 
 ## ing...
-- Fan not Sync state
-- Gaslock is unsupported
+- Fan not Sync state.
+- Gaslock is unsupported.
+- Not optimization now.
 
 <br>
 
