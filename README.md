@@ -18,13 +18,12 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 ## Change History
 | 버전 | 날짜 | 내용 | 
 |-----|-----|-----|
-| v.1.0.0b | 2021.09 |  |
+| v.1.0.0 | 2021.11 |  |
 
 <br>
 
 
 ## ing...
-- Fan not Sync state.
 - Not optimization now.
 
 <br>
@@ -33,7 +32,6 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 ### Manual
 - HA 설치 경로 아래 custom_components에 bestin_v2폴더 안의 전체 파일을 복사해줍니다.<br>
   `<config directory>/custom_components/bestin_v2/`<br>
-- configuration.yaml 파일에 설정을 추가합니다.<br>
 - Home-Assistant 를 재시작합니다<br>
 ### HACS
 - HACS > Integretions > 우측상단 메뉴 > Custom repositories 선택
@@ -76,7 +74,7 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 |강릉회산 한신더휴| 사용자 테스트중| O | X | △ | O | O | X | X | X | O | - 원가절감형<br>- 조명은 거실조명만 제어<br>- 콘센트는 안방콘센트만 제어|
 |목동센트럴아이파크위브 3블럭| 사용자 테스트중| O | O | O | O | O | O | X | X | O | |
 |김포사우| 사용자 테스트중| O | O | O | O | O | O | X | X | O | - ROOM1이 거실, ROOM2가 방1 |
-|파주운정아이파크| 테스트중| O | O | O | O | O | O | X | X | O |  |
+|파주운정아이파크| 사용자 테스트중| O | O | O | O | O | O | X | X | O |  |
 
 
 <br>
@@ -86,6 +84,6 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 
 
 
-[version-shield]: https://img.shields.io/badge/version-v1.0.0b-orange.svg
+[version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-red.svg
