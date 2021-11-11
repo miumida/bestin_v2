@@ -80,7 +80,8 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 <br>
 
 ## 관련사이트
-[1] 밍밍1님의 bestin-ha-config github repository(<https://github.com/gaussian8/bestin-ha-config>)<br>
+[1] 네이버 SmartThings & IoT Community카페 | 개발자88님의 "[설정팁]BESTIN 2.0 전등/콘센트/환기/난방 제어 성공하였습니다." 게시글(<https://cafe.naver.com/stsmarthome/38266>)<br>
+[2] 밍밍1님의 bestin-ha-config github repository(<https://github.com/gaussian8/bestin-ha-config>)<br>
 
 
 
