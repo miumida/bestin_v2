@@ -75,6 +75,7 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 |목동센트럴아이파크위브 3블럭| 사용자 테스트중| O | O | O | O | O | O | X | X | O | |
 |김포사우| 사용자 테스트중| O | O | O | O | O | O | X | X | O | - ROOM1이 거실, ROOM2가 방1 |
 |파주운정아이파크| 사용자 테스트중| O | O | O | O | O | O | X | X | O |  |
+|시흥배곧C1호반써밋플레이스| 테스트중 | O | X | X | O | O | O | X | X | O |  |
 
 
 <br>
