@@ -77,6 +77,7 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 |파주운정아이파크| 사용자 테스트중| O | O | O | O | O | O | X | X | O |  |
 |시흥배곧C1호반써밋플레이스| 사용자 테스트중 | O | X | X | O | O | O | X | X | O |  |
 |병점역아이파크캐슬 | 사용자 테스트중 | O | O | O | O | O | O | X | X | O |  |
+|구리갈매역 | 사용자 테스트중 | O | O | O | O | O | O | X | X | O |  |
 
 <br>
 
