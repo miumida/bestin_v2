@@ -1,0 +1,33 @@
+room_light_all_off:
+  description: Bestin v2 Room light all turn off.
+  fields:
+    room:
+      description: "Select your room id." 
+      example: "1"
+      selector:
+        select:
+          options:
+            - 1
+            - 2
+            - 3
+            - 4
+            - 5
+            - 6
+            - l 
+
+call_elevator:
+  description: Bestin v2 Call Elevator.
+  fields:
+    address:
+      description: "Input your Ip Address."
+      example: "10.4.0.1"
+      selector:
+        text:
+    direction:
+      description: "Select direction."
+      example: "up"
+      selector:
+        select:
+          options:
+            - up
+            - down
