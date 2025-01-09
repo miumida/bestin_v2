@@ -1,6 +1,6 @@
 {
   "name": "[KR] BESTIN v2",
   "country": "KR",
-  "domains": ["light", "fan", "climate", "switch", "sensor"],
+  "domains": ["light", "fan", "climate", "switch", "sensor", "button"],
   "render_readme": true
 }
