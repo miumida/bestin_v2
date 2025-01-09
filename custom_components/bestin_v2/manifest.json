@@ -1,0 +1,9 @@
+{
+  "domain": "bestin_v2",
+  "name": "BESTIN v2",
+  "documentation": "https://github.com/miumida/bestin_v2",
+  "codeowners": ["@miumida"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
