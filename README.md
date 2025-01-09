@@ -2,15 +2,19 @@
 
 ![HAKC)][hakc-shield]
 ![HACS][hacs-shield]
-![Version v1.4][version-shield]
+![Version v1.0.0][version-shield]
 
-BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
+BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.<br>
+RS485통신이 가능하다면, 네이버 HA카페의 halwin님의 Component를 사용하시기를 추천합니다.<br>
+사용법에 대한 가이드도 제공되지 않으며, 네이버 관련 카페 등에 게시되어 있는 내용을 참고하시기 바랍니다.<br>
+공식적인 업데이트나 기능 추가에 대한 요청은 받지 않습니다.<br>
 
 <br>
 
 ## 주의사항
 - 장치의 모든 기능을 이용하려면 제조사의 정식 서비스를 이용하시기 바랍니다.
 - 본 Component는 제조사의 정식 서비스를 이용하지 못하는 사용자에 한해 개인적인 용도로만 사용하기를 권장합니다.
+- 본 Component가 단지 서버에 영향을 줄 수 있음을 충분히 인지하고 사용하기를 권장합니다.
 - 본 Component의 사용책임은 전적으로 사용자에게 있습니다.
 
 <br>
@@ -18,12 +22,12 @@ BESTIN v2 월패드 제어를 위한 Custom Integration 입니다.
 ## Change History
 | 버전 | 날짜 | 내용 | 
 |-----|-----|-----|
-| v.1.0.0 | 2021.11 | 테스트중  |
+| v.1.0.0 | 2025.01 | END  |
 
 <br>
 
 
-## ing...
+## now...
 - Not optimization now.
 
 <br>
